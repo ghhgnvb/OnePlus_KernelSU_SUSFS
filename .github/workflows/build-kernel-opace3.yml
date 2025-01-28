@@ -49,7 +49,7 @@ jobs:
     
           # Define the branch names using the matrix values
           ANYKERNEL_BRANCH="android13-5.15"
-          SUSFS_BRANCH="gki-android14-5.15"
+          SUSFS_BRANCH="gki-android13-5.15"
 
           # Debug print the branches
           echo "Using branch for AnyKernel3: $ANYKERNEL_BRANCH"
